@@ -11,4 +11,4 @@ citation: 'Pitchford, Brent & Arnell, Karen. (2019). &quot;Paper Resting EEG in 
 
 [Download paper here](http://brentpitchford.github.io/files/Pitchford, Arnell - 2019 - Resting EEG and Attentional Breadth.pdf)
 
-Recommended citation: Pitchford, Brent & Arnell, Karen. (2019). &quot;Paper Resting EEG in alpha and beta bands predicts individual differences in attentional breadth.&quot; <i>Consciousness and Cognition</i>. 75.
+Recommended citation: Pitchford, Brent & Arnell, Karen. (2019). &quot;Resting EEG in alpha and beta bands predicts individual differences in attentional breadth.&quot; <i>Consciousness and Cognition</i>. 75.
