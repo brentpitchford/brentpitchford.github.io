@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brent Pitchford"
+title                    : "Overview"
 title_separator          : "-"
 name                     : &name "Brent Pitchford"
 description              : &description "I am a PhD candidate in Behavioural and Cognitive Neuroscience at Brock University"
