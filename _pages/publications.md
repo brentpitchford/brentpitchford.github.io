@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>Peer-reviewed publications</b>
+
 <b>Pitchford, B.</b> & Arnell, K.M (2022) <i>An examination of how reward associations differentially  
           facilitate and impair Stroop performance</i>. Manuscript submitted for publication.
 
@@ -26,6 +27,7 @@ author_profile: true
          psychopathic tendencies. <i>Canadian Journal of Experimental Psychology</i>, <i>73(3)</i>, 193-201.  
 
 <b>Conference presentations</b>
+
 <b>Pitchford, B.</b>, Baker, K. A., Mondloch, C. J., & Arnell, K. M. (2022, November). <i>Does the
           other-race effect require attention? An investigation using the attentional blink</i>. Poster to
           be presented at Object Perception, visual Attention, and visual Memory (OPAM) annual
@@ -65,13 +67,13 @@ author_profile: true
         psychopathic young offenders’ speech</i>. Poster presented at 2016 Canadian Society for Brain,
         Behaviour and Cognitive Science Conference, University of Ottawa, Ottawa, ON.
 
-        <b>Pitchford, B.</b> & Arnell, K. M. (2021). <i>Individual differences in how reward associations affect    
-               Stroop performance</i>, Canadian Society for Brain, Behaviour and Cognitive Science
-               (CSBBCS), Online, Montreal, QC.
+<b>Pitchford, B.</b> & Arnell, K. M. (2021). <i>Individual differences in how reward associations affect    
+       Stroop performance</i>, Canadian Society for Brain, Behaviour and Cognitive Science
+       (CSBBCS), Online, Montreal, QC.
 
-        <b>Pitchford, B.</b> (2019). <i>Can resting EEG predict individual differences in attentional breadth?</i>  
-                Brock Revolutionary Exploratory Workshops on Topics Related to Psychological Science:   
-                Data Blitz, Brock University, St. Catharines, ON.
-        <b>Pitchford, B.</b> (2017). <i>Seeing “more of the trees” after inhibiting prepotent responses</i>. Brock      
-                Revolutionary Exploratory Workshops on Topics Related to Psychological Science: Data
-                Blitz, Brock University, St. Catharines, ON.
+<b>Pitchford, B.</b> (2019). <i>Can resting EEG predict individual differences in attentional breadth?</i>  
+        Brock Revolutionary Exploratory Workshops on Topics Related to Psychological Science:   
+        Data Blitz, Brock University, St. Catharines, ON.
+<b>Pitchford, B.</b> (2017). <i>Seeing “more of the trees” after inhibiting prepotent responses</i>. Brock      
+        Revolutionary Exploratory Workshops on Topics Related to Psychological Science: Data
+        Blitz, Brock University, St. Catharines, ON.
