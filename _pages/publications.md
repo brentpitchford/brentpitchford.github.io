@@ -21,6 +21,8 @@ author_profile: true
 
 <b>Conference presentations</b>
 
+Poster Presentations
+
 <b>Pitchford, B.</b>, Baker, K. A., Mondloch, C. J., & Arnell, K. M. (2022, November). <i>Does the
 other-race effect require attention? An investigation using the attentional blink</i>. Poster to be presented at Object Perception, visual Attention, and visual Memory (OPAM) annual
 meeting, Boston, Massachusetts.
@@ -40,6 +42,8 @@ breadth following self-control: Investigating the role of asymmetrical frontal a
 
 <b>Pitchford, B.</b> & Arnell, K. M. (2017, May). <i>Executive control processes can narrow attention for those with high approach tendencies</i>. Poster presented at Vision Sciences Society
 (VSS), St. Pete Beach, Florida.
+
+Oral Presentations
 
 <b>Pitchford, B.</b> & Arnell, K. M. (2017, May). <i>Forest for the trees after inhibiting prepotent responses: The association between reward responsiveness and local focus</i>. Poster
 presented at Southern Ontario Neuroscience Association (SONA), Brock University, St. Catharines, ON.
