@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<b>Pitchford, B.</b> & Arnell, K.M (2022) An examination of how reward associations differentially  
-          facilitate and impair Stroop performance. Manuscript submitted for publication.
+<b>Pitchford, B.</b> & Arnell, K.M (2022) <i>An examination of how reward associations differentially  
+          facilitate and impair Stroop performance</i>. Manuscript submitted for publication.
 
 <b>Pitchford, B.</b>, & Arnell, K. M. (2022). Evaluating individual differences in rewarded Stroop   
         performance: Reliability and associations with self-report measures. <i>Psychological  
