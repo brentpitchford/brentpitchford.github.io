@@ -1,3 +1,4 @@
+---
 title: "Resting EEG in alpha and beta bands predicts individual differences in attentional breadth"
 collection: publications
 permalink: /publication/Pitchford, Arnell - 2019 - Resting EEG and Attentional Breadth.pdf

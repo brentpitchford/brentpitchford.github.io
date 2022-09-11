@@ -1,16 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Self-control and its influence on global/local processing: An investigation of the role of frontal alpha asymmetry and dispositional approach tendencies"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Pitchford, Arnell - 2019 - Self-control and its influence on globallocal processing An investigation of the role of frontal alpha as.pdf
+excerpt: '.'
+date: 2019-02-27
+venue: 'Attention, Perception, & Psychophysics'
+paperurl: 'http://brentpitchford.github.io/files/Pitchford, Arnell - 2019 - Self-control and its influence on globallocal processing An investigation of the role of frontal alpha as.pdf'
+citation: 'Pitchford, Brent & Arnell, Karen. (2019). &quot;Paper Resting EEG in alpha and beta bands predicts individual differences in attentional breadth.&quot; <i>Consciousness and Cognition</i>. 75.'
 ---
 
-<a href='http://academicpages.github.io/files/paper1.pdf'>Download paper here</a>
+[Download paper here](http://brentpitchford.github.io/files/Pitchford, Arnell - 2019 - Resting EEG and Attentional Breadth.pdf)
 
-This paper is about the number 1. The number 2 is left for future work.
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Pitchford, Brent & Arnell, Karen. (2019). &quot;Pitchford, Arnell - 2019 - Self-control and its influence on global/local processing An investigation of the role of frontal alpha asymmetry and dispositional approach tendencies.&quot; <i>Attention, Perception, and Psychophysics</i>. 75.Number 1." <i>Journal 1</i>. 1(1).
