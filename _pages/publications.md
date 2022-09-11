@@ -4,22 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Pitchford, B. & Arnell, K.M (2022) An examination of how reward associations differentially  
+<b>Pitchford, B.</b> & Arnell, K.M (2022) An examination of how reward associations differentially  
           facilitate and impair Stroop performance. Manuscript submitted for publication.
 
-Pitchford, B., & Arnell, K. M. (2022). Evaluating individual differences in rewarded Stroop   
-        performance: Reliability and associations with self-report measures. Psychological  
-        Research, 1-18.
+<b>Pitchford, B.</b>, & Arnell, K. M. (2022). Evaluating individual differences in rewarded Stroop   
+        performance: Reliability and associations with self-report measures. <i>Psychological  
+        Research</i>, 1-18.
 
-Pitchford, B. & Arnell, K.M. (2021). Individual differences in attentional breadth changes over
-        time: An event-related potential investigation. Frontiers in Psychology, 12, 1-12.
+<b>Pitchford, B.</b> & Arnell, K.M. (2021). Individual differences in attentional breadth changes over
+        time: An event-related potential investigation. <i>Frontiers in Psychology</i>, <i>12</i>, 1-12.
 
-Pitchford, B. & Arnell, K.M. (2019). Resting EEG in alpha and beta bands predicts individual     
-        differences in attentional breadth. Consciousness and Cognition, 75, 102803.
+<b>Pitchford, B.</b> & Arnell, K.M. (2019). Resting EEG in alpha and beta bands predicts individual     
+        differences in attentional breadth. <i>Consciousness and Cognition</i>, <i>75</i>, 102803.
 
-Pitchford, B. & Arnell, K.M. (2019). Self-control and its influence on global/local processing:   
+<b>Pitchford, B.</b> & Arnell, K.M. (2019). Self-control and its influence on global/local processing:   
         An investigation of the role of frontal alpha asymmetry and dispositional approach   
-        tendencies. Attention, Perception, & Psychophysics, 81(1), 173-187
+        tendencies. <i>Attention, Perception, & Psychophysics</i>, <i>81(1)</i>, 173-187
 
-Pitchford, B. & Arnell, K.M. (2019). Speech of young offenders as a function of their
-         psychopathic tendencies. Canadian Journal of Experimental Psychology, 73(3), 193-201.  
+<b>Pitchford, B.</b> & Arnell, K.M. (2019). Speech of young offenders as a function of their
+         psychopathic tendencies. <i>Canadian Journal of Experimental Psychology</i>, <i>73(3)</i>, 193-201.  
