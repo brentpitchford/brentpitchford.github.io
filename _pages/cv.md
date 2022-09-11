@@ -11,7 +11,7 @@ Pitchford, B. & Arnell, K.M (2022) An examination of how reward associations dif
 
 Pitchford, B., & Arnell, K. M. (2022). Evaluating individual differences in rewarded Stroop   
         performance: Reliability and associations with self-report measures. Psychological  
-        Research. 
+        Research.
 
 Pitchford, B. & Arnell, K.M. (2021). Individual differences in attentional breadth changes over
         time: An event-related potential investigation. Frontiers in Psychology, 12, 1-12.
