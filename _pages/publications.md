@@ -74,6 +74,7 @@ author_profile: true
 <b>Pitchford, B.</b> (2019). <i>Can resting EEG predict individual differences in attentional breadth?</i>  
         Brock Revolutionary Exploratory Workshops on Topics Related to Psychological Science:   
         Data Blitz, Brock University, St. Catharines, ON.
+        
 <b>Pitchford, B.</b> (2017). <i>Seeing “more of the trees” after inhibiting prepotent responses</i>. Brock      
         Revolutionary Exploratory Workshops on Topics Related to Psychological Science: Data
         Blitz, Brock University, St. Catharines, ON.
