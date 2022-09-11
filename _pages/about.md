@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Brent Pitchford 
-Department of Psychology, Brock University"
+title: "Overview"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
