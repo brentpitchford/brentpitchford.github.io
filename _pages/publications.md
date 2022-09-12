@@ -43,12 +43,12 @@ breadth following self-control: Investigating the role of asymmetrical frontal a
 <b>Pitchford, B.</b> & Arnell, K. M. (2017, May). <i>Executive control processes can narrow attention for those with high approach tendencies</i>. Poster presented at Vision Sciences Society
 (VSS), St. Pete Beach, Florida.
 
-Oral Presentations
-
 <b>Pitchford, B.</b> & Arnell, K. M. (2017, May). <i>Forest for the trees after inhibiting prepotent responses: The association between reward responsiveness and local focus</i>. Poster
 presented at Southern Ontario Neuroscience Association (SONA), Brock University, St. Catharines, ON.
 
 <b>Pitchford, B.</b> & Logan, J. (2016, June). <i>Uh, Um… The distinctive usage of filled pauses in psychopathic young offenders’ speech</i>. Poster presented at 2016 Canadian Society for Brain, Behaviour and Cognitive Science Conference, University of Ottawa, Ottawa, ON.
+
+Oral Presentations
 
 <b>Pitchford, B.</b> & Arnell, K. M. (2021). <i>Individual differences in how reward associations affect Stroop performance</i>, Canadian Society for Brain, Behaviour and Cognitive Science (CSBBCS), Online, Montreal, QC.
 
