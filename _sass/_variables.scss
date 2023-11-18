@@ -54,8 +54,13 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
+<<<<<<< HEAD
+$background-color           : ##cbd5dc;
+$code-background-color      : #5cb9f7;
+=======
 $background-color           : #fff;
 $code-background-color      : #fafafa;
+>>>>>>> parent of 5e23673 (Update _variables.scss)
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;

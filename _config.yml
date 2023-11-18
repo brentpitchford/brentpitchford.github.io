@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Overview"
 title_separator          : "-"
 name                     : &name "Brent Pitchford"
-description              : &description "PhD candidate - Brock University"
+description              : &description "Postdoctoral Researcher - Icelandic Vision Lab"
 url                      : https://brentpitchford.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brentpitchford/brentpitchford.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Brent Pitchford"
   avatar           : "DSC_0074.JPG"
-  bio              : "PhD candidate - Brock University."
-  location         : "St. Catharines, ON, Canada"
+  bio              : "Postdoctoral Researcher - Icelandic Vision Lab at the University of Iceland."
+  location         : "Reykjavik, Iceland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=5pj1NFgAAAAJ&hl=en"
