@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Iceland (Reykjavik, Iceland) in the Icelandic Vision Lab. 
+I am currently a postdoctoral researcher at KU Leuven (Leuven, Belgium) in both the Hoplab and Mathlab.
 
-My research primarily focuses on visual perception, attention, and cognition, with a particular emphasis on understanding the variability in cognitive processes among individuals. I aim to uncover how these differences are linked to underlying neural mechanisms. 
+My research primarily focuses on visual perception, visual attention, and cognition in humans, with a particular emphasis on understanding the variability in cognitive processes across individuals (e.g., reading ability, math ability, spread of visual attention). I also aim to uncover the neural mechanisms underlying these differences by using neuroimaging techniques such as electroencephalogram (EEG) and magnetic resonance imaging (MRI). 
 
-To achieve this, I employ a multidisciplinary approach that integrates behavioural experiments, electrophysiological recordings, and self-report measures. By combining these methodologies, I strive to gain a comprehensive understanding of the neural and psychological factors that contribute to individual differences in cognitive processing.
+To achieve this, I employ a multidisciplinary approach that integrates behavioural measures with neural and self-report data, and sometimes I also use machine-based tools such as neural networks. By combining these methodologies, I strive to gain a comprehensive understanding of the neural and psychological factors that contribute to individual differences in cognitive processing, and to answer important questions such as how these differences develop over time, how the brain contributes to our ability to make sense of the world around us, and sometimes how this may differ from one person to the next.
+
